@@ -1,5 +1,5 @@
 # yEd-UML-Palette
-yEd's palette extension for UML elemnts
+yEd's palette extension for UML diagram elements
 
 # How to install
 
