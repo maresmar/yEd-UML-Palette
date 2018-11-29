@@ -1,5 +1,5 @@
 # yEd-UML-Palette
-yEd's palette extension for UML diagram elements
+yEd's palette extension for UML diagrams
 
 # How to install
 
@@ -8,8 +8,8 @@ yEd's palette extension for UML diagram elements
 
 Open yEd > Palette > Right click > Import section > Open downloaded file
 
-# Looking for demo?
+# Looking for a demo?
 ![Demo](./UML%20diagrams.svg)
 
-# Looking for another palettes?
+# Looking for other palettes?
 * https://github.com/ruslo/yed-uml
